@@ -1,0 +1,241 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4">
+  <diagram name="Page-1" id="Q-L2Xd6tnzo_i3sO5BKf">
+    <mxGraphModel dx="1642" dy="1090" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-2" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Master Data" vertex="1">
+          <mxGeometry height="240" width="1265" x="-96" y="-26" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-8" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Trip Service Level&lt;div&gt;Agreement&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-9" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Part Entry" vertex="1">
+          <mxGeometry height="60" width="120" x="49" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-13" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Part&lt;div&gt;Store&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-14" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Part&lt;div&gt;Category&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="185" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-15" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Part" vertex="1">
+          <mxGeometry height="60" width="120" x="316" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-16" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Customer Rate Contract" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-22" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="DEF Rate" vertex="1">
+          <mxGeometry height="60" width="120" x="457" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-26" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Assignment&lt;div&gt;Reason&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="452" y="93" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-28" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="License&lt;div&gt;Type (called licensencce)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="592" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-35" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Traccar Device" vertex="1">
+          <mxGeometry height="60" width="120" x="602" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-37" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Tyre" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-42" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Bid Lost Reason" vertex="1">
+          <mxGeometry height="60" width="120" x="738" y="86" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-46" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" value="Document Type" vertex="1">
+          <mxGeometry height="60" width="120" x="874" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-47" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vehicle Class" vertex="1">
+          <mxGeometry height="60" width="120" x="883" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-60" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vehicle Document Type" vertex="1">
+          <mxGeometry height="60" width="120" x="1013" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-75" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Operation&lt;div&gt;Pricelist&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1021" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-76" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Transport&lt;div&gt;Pricelist&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1145" y="11" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-77" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Operation&lt;div&gt;Type&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="83" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-78" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vehicle Type" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="153" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-79" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Address Type" vertex="1">
+          <mxGeometry height="60" width="120" x="196" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-81" parent="kZBJ_KRGbU7hjgi3HtUk-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Fuel Rate" vertex="1">
+          <mxGeometry height="60" width="120" x="332" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-3" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Parts" vertex="1">
+          <mxGeometry height="200" width="948" x="-90" y="257" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-4" parent="kZBJ_KRGbU7hjgi3HtUk-3" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Parts Issue" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-5" parent="kZBJ_KRGbU7hjgi3HtUk-3" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Workshop&lt;div&gt;Jobcard&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-12" parent="kZBJ_KRGbU7hjgi3HtUk-3" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Part&lt;div&gt;Requisition&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-7" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Settings" vertex="1">
+          <mxGeometry height="200" width="948" x="-90" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-6" parent="kZBJ_KRGbU7hjgi3HtUk-7" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="OpenAI Settings" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-80" parent="kZBJ_KRGbU7hjgi3HtUk-7" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Transport Settings" vertex="1">
+          <mxGeometry height="60" width="120" x="204" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-10" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Logs" vertex="1">
+          <mxGeometry height="200" width="995" x="-96" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-11" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Spare Ledger&lt;div&gt;Entry&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-17" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Order Assignment&lt;div&gt;Log&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-21" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="DEF Ledger&lt;div&gt;Entry&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="183" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-27" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Driver Trip&lt;div&gt;Log&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="183" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-31" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" value="Tire Log" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-33" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vehicle Tyre Log" vertex="1">
+          <mxGeometry height="60" width="120" x="324" y="103" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-36" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Tyre Issue" vertex="1">
+          <mxGeometry height="60" width="120" x="457" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-38" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vehicle Status Log" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-45" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Fuel Ledger Entry" vertex="1">
+          <mxGeometry height="60" width="120" x="594" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-51" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Alert Log" vertex="1">
+          <mxGeometry height="60" width="120" x="607" y="111" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-55" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Geo Logs" vertex="1">
+          <mxGeometry height="60" width="120" x="727" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-68" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Transport Log" vertex="1">
+          <mxGeometry height="60" width="120" x="741" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-69" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Operation Log" vertex="1">
+          <mxGeometry height="60" width="120" x="864" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-70" parent="kZBJ_KRGbU7hjgi3HtUk-10" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Expense Log" vertex="1">
+          <mxGeometry height="60" width="120" x="875" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-18" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Fuel App" vertex="1">
+          <mxGeometry height="200" width="948" x="-96" y="939" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-19" parent="kZBJ_KRGbU7hjgi3HtUk-18" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="DEF Purchase" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-43" parent="kZBJ_KRGbU7hjgi3HtUk-18" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Fuel Station Voucher" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="102" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-44" parent="kZBJ_KRGbU7hjgi3HtUk-18" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Fuel Purchase" vertex="1">
+          <mxGeometry height="60" width="120" x="187" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-64" parent="kZBJ_KRGbU7hjgi3HtUk-18" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Fuel Voucher" vertex="1">
+          <mxGeometry height="60" width="120" x="192" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-85" parent="kZBJ_KRGbU7hjgi3HtUk-18" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" value="Fuel System" vertex="1">
+          <mxGeometry height="60" width="120" x="352" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-23" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Billing" vertex="1">
+          <mxGeometry height="200" width="948" x="-99" y="1164" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-24" parent="kZBJ_KRGbU7hjgi3HtUk-23" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Logistics Supplier&lt;div&gt;Bill&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-32" parent="kZBJ_KRGbU7hjgi3HtUk-23" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Logistics&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bill&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-29" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Cash" vertex="1">
+          <mxGeometry height="200" width="948" x="-96" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-30" parent="kZBJ_KRGbU7hjgi3HtUk-29" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Cash Replenishment&lt;div&gt;Request&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-40" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Incident" vertex="1">
+          <mxGeometry height="200" width="948" x="-96" y="1596" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-41" parent="kZBJ_KRGbU7hjgi3HtUk-40" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Incident Report" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-48" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Driver" vertex="1">
+          <mxGeometry height="200" width="948" x="-96" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-49" parent="kZBJ_KRGbU7hjgi3HtUk-48" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Driver Onboarding" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-50" parent="kZBJ_KRGbU7hjgi3HtUk-48" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Driver Requisition" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-66" parent="kZBJ_KRGbU7hjgi3HtUk-48" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Driver Release&lt;div&gt;Note&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="185" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-67" parent="kZBJ_KRGbU7hjgi3HtUk-48" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Driver Assignment" vertex="1">
+          <mxGeometry height="60" width="120" x="195" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-86" parent="kZBJ_KRGbU7hjgi3HtUk-48" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Driver Allocation" vertex="1">
+          <mxGeometry height="60" width="120" x="326" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-52" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Traccar" vertex="1">
+          <mxGeometry height="200" width="948" x="-96" y="2034" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-53" parent="kZBJ_KRGbU7hjgi3HtUk-52" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Geo-Fence" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-56" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Alert" vertex="1">
+          <mxGeometry height="200" width="948" x="-96" y="2259" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-57" parent="kZBJ_KRGbU7hjgi3HtUk-56" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Alert Rule" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-58" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Order Processing" vertex="1">
+          <mxGeometry height="200" width="948" x="-90" y="2476" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-59" parent="kZBJ_KRGbU7hjgi3HtUk-58" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Bid" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-63" parent="kZBJ_KRGbU7hjgi3HtUk-58" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Trip Release" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-72" parent="kZBJ_KRGbU7hjgi3HtUk-58" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Dispatch Trip" vertex="1">
+          <mxGeometry height="60" width="120" x="201" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-73" parent="kZBJ_KRGbU7hjgi3HtUk-58" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Dispatch Order" vertex="1">
+          <mxGeometry height="60" width="120" x="198" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-83" parent="kZBJ_KRGbU7hjgi3HtUk-58" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Order Assignment" vertex="1">
+          <mxGeometry height="60" width="120" x="361" y="31" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-61" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=23;" value="Fleet" vertex="1">
+          <mxGeometry height="200" width="948" x="-90" y="2695" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-62" parent="kZBJ_KRGbU7hjgi3HtUk-61" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vehicle Document" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-82" parent="kZBJ_KRGbU7hjgi3HtUk-61" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Tire Management" vertex="1">
+          <mxGeometry height="60" width="120" x="44" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="kZBJ_KRGbU7hjgi3HtUk-84" parent="kZBJ_KRGbU7hjgi3HtUk-61" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" value="Vehicle Tracking" vertex="1">
+          <mxGeometry height="60" width="120" x="188" y="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
