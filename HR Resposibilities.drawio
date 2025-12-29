@@ -1,0 +1,18 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="9SVTfPK-dmwWL2U0MStY">
+    <mxGraphModel dx="1176" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SdnxkWyIrSVMPy9yVU2s-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Recruitment" vertex="1">
+          <mxGeometry height="263" width="214" x="-92" y="101" as="geometry">
+            <mxRectangle height="26" width="104" x="-92" y="101" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SdnxkWyIrSVMPy9yVU2s-3" parent="SdnxkWyIrSVMPy9yVU2s-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;ul&gt;&lt;li&gt;Staffing Plan&lt;/li&gt;&lt;li&gt;Approval&lt;/li&gt;&lt;li&gt;Job Posting&lt;/li&gt;&lt;li&gt;Job Posting Promotion&lt;/li&gt;&lt;li&gt;Candidate Filtering&lt;/li&gt;&lt;li&gt;Interview Scheduling&lt;/li&gt;&lt;li&gt;Job Offer&lt;/li&gt;&lt;li&gt;Joining Follow up&lt;/li&gt;&lt;li&gt;On Boarding&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="170" width="188" x="9" y="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
