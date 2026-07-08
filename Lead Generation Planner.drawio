@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="nK_XEGUHeYT1ZQBDFF9N">
+    <mxGraphModel dx="1860" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82L_6upfbBelfFIQSy3--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b&gt;Ideal Customer Profile (ICP)&lt;/b&gt;&lt;br&gt;Firmographic (R): Industry, Employee Count, Annual Revenue (O), MNC (O)&lt;div&gt;Profile (P): Territory, Designation, Role, Department&lt;br&gt;Technographic (O):Tally, Quickbooks, SAP, Dynamics, etc.&lt;div&gt;Intent (O): Hiring, Funding, MSME Registration, etc.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="642" x="-402" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="82L_6upfbBelfFIQSy3--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="&lt;b&gt;Data Generation Strategy (DGS)&lt;/b&gt;&lt;div&gt;Tools: BuiltWith | T, Apollo.io | F, Wappalyzer | T, Grow me organic | F, Hunter.io | F, Easylead | F&lt;/div&gt;&lt;div&gt;Method: Excel&lt;/div&gt;&lt;div&gt;Contact Count Per Organization&lt;/div&gt;&lt;div&gt;Data Target Count&lt;/div&gt;" vertex="1">
+          <mxGeometry height="117" width="642" x="-402" y="284" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
